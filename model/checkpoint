@@ -1,0 +1,2 @@
+model_checkpoint_path: "model_finetuing_robot12_input5_v5_robot3_free_robot12_col_epoch_20_ratio_0.37.ckpt"
+all_model_checkpoint_paths: "model_finetuing_robot12_input5_v5_robot3_free_robot12_col_epoch_20_ratio_0.37.ckpt"
